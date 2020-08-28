@@ -1,0 +1,13 @@
+{
+  "name": "t-new-year-countdown",
+  "version": "1.0.0",
+  "description": "Landing page that counts down from the current date to the next new year",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "author": "M Toufiq ELAHI"
+}
